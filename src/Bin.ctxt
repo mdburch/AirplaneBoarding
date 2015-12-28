@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=picture
+comment0.target=Bin(java.lang.String)
+comment0.text=CONSTRUCTOR
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ updateImage()
+comment3.params=
+comment3.target=int\ getImageNum()
+comment4.params=num
+comment4.target=void\ setImageNum(int)
+comment5.params=
+comment5.target=void\ resetImageNum()
+numComments=6

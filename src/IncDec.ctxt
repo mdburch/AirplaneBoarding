@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=str\ x\ y
+comment0.target=IncDec(java.lang.String,\ int,\ int)
+comment0.text=CONSTRUCTOR
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ updateImage()
+comment3.params=
+comment3.target=boolean\ wasClicked()
+comment4.params=e
+comment4.target=void\ setEnable(boolean)
+numComments=5

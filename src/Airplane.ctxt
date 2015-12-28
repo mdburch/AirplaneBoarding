@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Airplane()
+comment0.text=Constructor\ for\ objects\ of\ class\ background.
+comment1.params=
+comment1.target=void\ act()
+comment2.params=select\ one\ two\ three
+comment2.target=void\ update(Button,\ Button,\ Button,\ Button)
+comment3.params=increase\ val
+comment3.target=void\ findSelected(boolean,\ int)
+numComments=4

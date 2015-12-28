@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PersonAdder()
+comment0.text=CONSRTUCTOR
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ newPerson()
+comment3.params=
+comment3.target=void\ checkFull()
+comment4.params=
+comment4.target=int\ findY()
+comment5.params=
+comment5.target=int\ findX()
+comment6.params=
+comment6.target=int\ numBags()
+comment7.params=small\ large
+comment7.target=int\ bagSize(int,\ int)
+numComments=8
